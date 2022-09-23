@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @FelipeeBR
 - 👀 Atualmente estou interessado em Desenvolvimento Web
 - 🌱 Atualmente estou aprendendo HTML, Javascript
-- 📖 Acadêmico do curso Sistemas de Informação - Campus - IFNMG Januária.
+- 📖 Acadêmico do curso Sistemas de Informação - IFNMG Campus Januária.
 
 <!---
 FelipeeBR/FelipeeBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
