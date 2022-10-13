@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @FelipeeBR
 - 👀 Atualmente estou interessado em Desenvolvimento Web
-- 🌱 Atualmente estou aprendendo HTML, Javascript
+- 🌱 Atualmente estou aprendendo HTML, Javascript, React.
 - 📖 Acadêmico do curso Sistemas de Informação - IFNMG Campus Januária.
 
 <!---
