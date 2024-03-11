@@ -1,5 +1,4 @@
 - 👋 Oi, eu sou @FelipeeBR
-- 👀 
 - 🌱 Javascript, React, PHP.
 - 📖 Acadêmico do curso Sistemas de Informação - IFNMG Campus Januária.
 
